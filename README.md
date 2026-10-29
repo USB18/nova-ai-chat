@@ -41,8 +41,6 @@ npx tsc --noEmit   # typecheck
 npm run lint
 ```
 
-New to the code? Read [CODEBASE_GUIDE.md](CODEBASE_GUIDE.md) for a full walkthrough of the architecture and message flow.
-
 ## Layout
 
 ```
